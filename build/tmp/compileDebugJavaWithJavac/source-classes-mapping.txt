@@ -1,0 +1,2 @@
+com/sensing_art/vital/trial/sensinghttp/BuildConfig.java
+ com.sensing_art.vital.trial.sensinghttp.BuildConfig
